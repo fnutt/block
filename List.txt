@@ -6,3 +6,4 @@
 ! Homepage: https://github.com/christer88/AdBlock
 ! Licence: https://github.com/christer88/AdBlock/
 discordapp.com##DIV[class="message-group-blocked"]
+discordapp.com##DIV[class="divider divider-red"]
