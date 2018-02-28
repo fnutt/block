@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Version: 28Feb2018_15:46
-! Title: christer88 adblock list
-! Last modified: 25 February 15:46 UTC
+! Version: 28Feb2018_16:05
+! Title: christer88
+! Last modified: 25 February 16:05 UTC
 ! Expires: 12 hours (update frequency)
-! Homepage: https://github.com/christer88/AdBlock
-! Licence: https://github.com/christer88/AdBlock/
+! Homepage: https://github.com/christer88/block/
+! Licence: https://github.com/christer88/block/
 discordapp.com##DIV[class="message-group-blocked"]
 discordapp.com##DIV[class="divider divider-red"]
 www.gaysir.no##DIV[id="toppreklame"]
