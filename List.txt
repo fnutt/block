@@ -2,4 +2,3 @@
 discordapp.com##DIV[class="message-group-blocked"]
 discordapp.com##DIV[class="divider divider-red"]
 www.gaysir.no##DIV[id="toppreklame"]
-e24.no##DIV[class="inner"]
