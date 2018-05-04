@@ -21,3 +21,4 @@ www.tu.no##DIV[class="top-poster-wrap align-center"]
 www.tu.no##DIV[class="poster-placeholder poster-300x250 poster-inline-article"]
 www.tu.no##ARTICLE[class="preamble inline-preamble-link annonse single-headline odd commercial access-public big-preamble comments-loaded"]
 www.tu.no##DIV[class="poster-placeholder poster-300x250"]
+itavisen.no##CLOUDFLARE-APP
