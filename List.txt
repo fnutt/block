@@ -11,6 +11,7 @@ www.digi.no##DIV[class="feed tujobs-ad tujobs-carousel-ad tujobs-featured-ad cle
 www.digi.no##SECTION[class="feed feed-most-read line-top"]
 www.digi.no##SECTION[class="products-carousel daily-offers full-width"]
 www.digi.no##ARTICLE[class="preamble full-width annonse single-headline even commercial access-public   big-preamble "]
+www.digi.no##DIV[class="poster-placeholder poster-300x250 "]
 www.tu.no##DIV[class="sticky-col-right"]
 www.tu.no##ARTICLE[class="preamble no-preamble-text preamble-one-third dynamic-format annonse single-headline odd commercial access-public big-preamble comments-loaded"]
 www.tu.no##DIV[class="col-full-width clearfix align-center frontpage-top-poster-wrap  hide-on-mobile"]
