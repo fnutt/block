@@ -23,3 +23,4 @@ www.tu.no##DIV[class="poster-placeholder poster-300x250 poster-inline-article"]
 www.tu.no##ARTICLE[class="preamble inline-preamble-link annonse single-headline odd commercial access-public big-preamble comments-loaded"]
 www.tu.no##DIV[class="poster-placeholder poster-300x250"]
 itavisen.no##CLOUDFLARE-APP
+www.youtube.com##YTD-LIVE-CHAT-FRAME[id="chat"][class="style-scope ytd-watch-flexy"]
