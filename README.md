@@ -1,4 +1,2 @@
 # block
-Custom ad-block list
-
-For personal use only
+Custom ad-block list for Opera web browser
